@@ -15,7 +15,7 @@ import com.example.springbootjoins.entity.Student;
 import com.example.springbootjoins.service.StudentService;
 
 @RestController
-@RequestMapping("/student")
+@RequestMapping("/students")
 public class StudentController {
     
     @Autowired
